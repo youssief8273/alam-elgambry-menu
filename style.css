@@ -83,3 +83,68 @@ width:100%;
 display:block;
 
 }
+
+.header{
+
+background:#0a5060;
+
+display:flex;
+align-items:center;
+justify-content:center;
+gap:15px;
+
+padding:15px 20px;
+
+border-bottom:3px solid #d4a53a;
+
+}
+
+.header-logo{
+    width:90%;
+    max-width:700px;
+    height:auto;
+    display:block;
+    margin:auto;
+}
+
+
+.header-text{
+
+display:flex;
+flex-direction:column;
+
+}
+
+.header h1{
+
+color:#fff;
+
+font-size:34px;
+
+margin:0;
+
+line-height:1;
+
+}
+
+.header p{
+
+color:#d4a53a;
+
+font-size:18px;
+
+margin-top:8px;
+
+}
+
+.menu{
+
+display:block;
+
+width:100%;
+
+max-width:900px;
+
+margin:auto;
+
+}
